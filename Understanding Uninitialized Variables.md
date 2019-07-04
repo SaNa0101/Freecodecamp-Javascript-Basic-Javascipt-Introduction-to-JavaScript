@@ -5,7 +5,7 @@ operation on an undefined variable your result will be `NaN` which means "Not a 
 If you concatenate a string with an undefined variable, you will get a literal string of "undefined".
 
 ## Instructions
- - Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will not be undefined.
+ - Initialize the three variables `a`, `b`, and `c` with `5`, `10`, and `"I am a"` respectively so that they will not be undefined.
 
 
 ### Before
