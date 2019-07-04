@@ -32,7 +32,5 @@ var b = 2;
 
 // Only change code below this line
 a = 7;
-b = 7;
-b = a; // Assign the contents of a to var b /> so we need to have b at left cause we assign the right
-
+b = a; 
 ```
